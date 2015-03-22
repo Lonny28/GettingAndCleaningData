@@ -13,15 +13,9 @@ The followign codes explain what I did to the data:
 Subject - The number assigned to each of the 30 subjects
 
 Activity - The activity each subject was doing.  Consists of:
-
-Laying
-
-Sitting
- 
-Standing
- 
-Walking (normal)
- 
-Walking Downstairs
- 
-Walking Upstairs
+*Laying
+*Sitting
+*Standing
+*Walking (normal)
+*Walking Downstairs
+*Walking Upstairs
