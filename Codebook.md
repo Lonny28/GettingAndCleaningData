@@ -8,7 +8,7 @@ A full description of the data is here:
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-**The following codes explain what I did to the data:**
+**The following codes explain the data in the Tidy file:**
 
 Use Subject and Activity as Row Headers to identify each person and the activity they were doing:
 
