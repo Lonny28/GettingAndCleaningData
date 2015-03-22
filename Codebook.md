@@ -10,6 +10,8 @@ A full description of the data is here:
 
 **The following codes explain the data in the Tidy file:**
 
+**NOTE - I DID SAVE IT AS A .CSV FILE even though it's called .TXT - sorry if that causes confusion as I used excel to verify my work **
+
 Use Subject and Activity as Row Headers to identify each person and the activity they were doing:
 
 Subject - The number assigned to each of the 30 subjects
