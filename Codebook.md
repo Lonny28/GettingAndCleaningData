@@ -2,8 +2,8 @@ Here is the codebook that explains the data in my Tidy Data File
 
 The documentation below came from the "Readme" list in the data that came with it - this should explain the data
 ------------------------------------------------------------------------------------------------
-This data all came from the "Human Activity Recognition Using Smartphones Dataset"
-Version 1.0
+This data all came from the "Human Activity Recognition Using Smartphones Dataset" Version 1.0
+
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -26,18 +26,24 @@ then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 rea
 The sensor acceleration signal, which has gravitational and body motion components, was separated 
 using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is
 assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used.
-From each window, a vector of features was obtained by calculating variables from the time
-and frequency domain.
+From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 ------------------------------------------------------------------------------------------------
 
 The followign codes explain what I did to the data:
 Subject - The number assigned to each of the 30 subjects
+
 Activity - The activity each subject was doing.  Consists of:
+
   Laying
+  
   Sitting
+  
   Standing
+  
   Walking (normal)
+  
   Walking Downstairs
+  
   Walking Upstairs
   
     
